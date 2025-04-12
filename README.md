@@ -8,6 +8,7 @@ Copy
 Edit
 git clone https://github.com/your-username/SynthHack2025myidea.git
 cd SynthHack2025myidea
+
 💻 2. Start the Frontend
 bash
 Copy
@@ -16,6 +17,7 @@ cd client
 npm install
 npm run dev
 This runs the Vite React frontend at http://localhost:5173 by default.
+
 
 🧪 3. Start the Backend
 bash
