@@ -1,3 +1,33 @@
+🧠 Project Description
+SynthHack2025 is a smart healthcare assistant that delivers personalized treatment suggestions through an interactive chatbot. It supports voice input/output, generates PDF health reports, shows live medical news, and helps users locate nearby hospitals/clinics using real-time data. Built with React, TypeScript, and Express, the app combines modern frontend design with a robust backend and AI integration using the Gemini API.
+
+🚀 How to Run the Project
+📦 1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/SynthHack2025myidea.git
+cd SynthHack2025myidea
+💻 2. Start the Frontend
+bash
+Copy
+Edit
+cd client
+npm install
+npm run dev
+This runs the Vite React frontend at http://localhost:5173 by default.
+
+🧪 3. Start the Backend
+bash
+Copy
+Edit
+cd server
+npm install
+node index.js
+Make sure MongoDB is running locally, or set your connection string in .env.
+
+Let me know if you’re using PM2, Docker, or MongoDB Atlas, and I can tweak this further!
+
 🛠️ Tech Stack
 🌐 Frontend
 Vite – Fast build tool for frontend development
