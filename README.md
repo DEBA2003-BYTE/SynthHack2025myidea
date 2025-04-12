@@ -68,3 +68,18 @@ Google Maps API / OpenStreetMap Nominatim – Location-based hospital/clinic sea
 
 Web Speech API – Voice recognition and speech synthesis in-browser
 
+
+![Screenshot from 2025-04-12 06-03-41](https://github.com/user-attachments/assets/23f4b2c9-f997-4d9a-a751-7c702e0f5030)
+
+![Screenshot from 2025-04-12 06-03-52](https://github.com/user-attachments/assets/7f35e836-5d78-4bd4-8459-d152303de6a9)
+
+
+
+![Screenshot from 2025-04-12 06-04-29](https://github.com/user-attachments/assets/767bcb18-b602-4bae-a713-b03ddaa8c294)
+
+
+![Screenshot from 2025-04-12 06-04-39](https://github.com/user-attachments/assets/65d2df15-aed8-402b-aaf2-ebcfbdeb1d64)
+
+
+
+![Screenshot from 2025-04-12 06-06-23](https://github.com/user-attachments/assets/dfe27a92-50d5-4d23-b8fb-3447f09492f9)
